@@ -4,12 +4,8 @@
 It lets users explore, create, and review travel destinations with **full authentication, authorization, and cloud-based image uploads.** ✈️🏕️
 
 <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-8111F9?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
-
 ---
-
 ## 🚀Tech Stack
-
-
 <table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express.js</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br>Bootstrap</td> </tr> <tr> <td align="center"><img src="https://img.icons8.com/fluency/48/cloud.png"/><br>Cloudinary</td> <td align="center"><img src="https://img.icons8.com/fluency/48/map.png"/><br>Mapbox</td> <td align="center"><img src="https://img.icons8.com/color/48/git.png"/><br>Git</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48"/><br>NPM</td> <td align="center"><img src="https://img.icons8.com/color/48/ejs.png" width="48"/><br>EJS</td> </tr> </table>
 
 ---
@@ -18,7 +14,6 @@ It lets users explore, create, and review travel destinations with **full authen
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge)](https://wanderlust-mern-fullstack.onrender.com)
 
 ---
-
 ## ⚙️Key Features
 
 | Feature                  | Description                                                      |
@@ -223,18 +218,14 @@ Feel free to **Fork** this repo and submit a **Pull Request**.
   <a href="https://www.linkedin.com/in/shreyansh-shukla-1269b5321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://github.com/shreyanshshukla008-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="shreyanshshukla0087@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 <h3 align="center" style="font-size: 24px;">
   
 
