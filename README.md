@@ -223,15 +223,15 @@ Feel free to **Fork** this repo and submit a **Pull Request**.
 
 ## 🔗 Connect With Me <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pavithrasharma" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyansh-shukla-1269b5321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/PavithraSharma14" target="_blank">
+  <a href="https://github.com/shreyanshshukla008-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="pavithrasharma456@gmail.com">
+  <a href="shreyanshshukla0087@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
