@@ -239,8 +239,7 @@ Feel free to **Fork** this repo and submit a **Pull Request**.
 ---
 
 <h3 align="center" style="font-size: 24px;">
-  <em>Made with ❤️ by <strong> Pavithra Sharma</strong><br><br>
-</h3>
+  
 
 
 
