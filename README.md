@@ -214,10 +214,7 @@ Feel free to **Fork** this repo and submit a **Pull Request**.
 
 ---
 
-## 📜 License
 
-- This project is licensed under the **MIT License** — see the LICENSE
-  file for details.
 
 ---
 
